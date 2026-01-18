@@ -1,7 +1,6 @@
 Hi, I’m Roshan 👋
 
-I build developer tools and like understanding how things work —
-especially large codebases.
+I build developer tools and like understanding how things work.
 
 Currently working on:
 
